@@ -44,6 +44,8 @@ gem 'html2slim'
 
 gem 'bootstrap'
 
+gem 'rails_autolink'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
